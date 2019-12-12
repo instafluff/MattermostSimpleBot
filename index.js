@@ -15,7 +15,7 @@ web.APIs[ "/hook" ] = ( qs, body ) => {
       body: JSON.stringify({
         "channel": "town-square",
         "username": "Bestest Bot",
-        "icon_url": "https://image.flaticon.com/icons/svg/405/405289.svg",
+        "icon_url": "https://www.instafluff.tv/MattermostSimpleBot/hatbunny.png",
         "text": "Testing :tada:"
       })
     } );
